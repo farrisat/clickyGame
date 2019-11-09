@@ -1,0 +1,11 @@
+.jumbotron {
+  width: 100%;
+  /* position: absolute; */
+  text-align: center;
+  font-size: 2rem;
+  color: black;
+  background-color: #FD580F;
+  /* background: url("https://mpng.pngfly.com/20180702/shq/kisspng-herms-perfume-logo-eau-d-orange-verte-fashion-hermes-5b39eb246e9440.807060321530522404453.jpg") */
+  /* background-image: "https://mpng.pngfly.com/20180702/shq/kisspng-herms-perfume-logo-eau-d-orange-verte-fashion-hermes-5b39eb246e9440.807060321530522404453.jpg"; */
+  margin-bottom: 50px;
+}
